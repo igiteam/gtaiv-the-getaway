@@ -8,6 +8,9 @@ A total conversion project that rebuilds the London crime story and cinematic dr
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/gtaiv-the-getaway/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/gtaiv-the-getaway/git/trees/main?recursive=1)
 
+## GTA IV Webassembly
+[https://wasmarcade.com/gta3](https://wasmarcade.com/gtaiv)
+
 # Base Gameplay
 [![The Getaway Classic Collection - Reveal Trailer](https://i.ytimg.com/vi/2CA8c-4jyQQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?czAtTzFraldBeVk)
 
@@ -24,6 +27,10 @@ A total conversion project that rebuilds the London crime story and cinematic dr
 [https://archive.org/download/the-getaway_202508/the%20getaway.iso](https://archive.org/download/the-getaway_202508/the%20getaway.iso)
 
 [https://archive.org/details/the-getaway-black-monday-sced-52946](https://archive.org/details/the-getaway-black-monday-sced-52946)
+
+[https://www.moddb.com/games/grand-theft-auto-iv/downloads](https://www.moddb.com/games/grand-theft-auto-iv/downloads)
+
+[https://www.moddb.com/mods/gta-iv-car-pack-builder-for-fusion-fix/downloads/gta-iv-quick-car-spawner-v074](https://www.moddb.com/mods/gta-iv-car-pack-builder-for-fusion-fix/downloads/gta-iv-quick-car-spawner-v074)
 
 [![The Getaway](https://raw.githubusercontent.com/igiteam/gtaiv-the-getaway/refs/heads/main/the-getaway.jpg)](https://archive.org/download/the-getaway_202508/the%20getaway.iso)
 
