@@ -1,5 +1,5 @@
 # gtaiv-the-getaway-psx
-## Grand Theft Auto IV - The Getaway Remake
+## Grand Theft Auto IV - The Getaway PSX Remake
 A total conversion project that rebuilds the London crime story and cinematic driving of *The Getaway* (2002) inside the open-world engine and physics of *Grand Theft Auto IV* (2008)
 
 ## Github Treeview
