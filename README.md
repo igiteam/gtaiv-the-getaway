@@ -29,6 +29,8 @@ A total conversion project that rebuilds the London crime story and cinematic dr
 
 [![The Getaway](https://raw.githubusercontent.com/igiteam/gtaiv-the-getaway/refs/heads/main/black_monday.jpg)](https://archive.org/details/the-getaway-black-monday-sced-52946)
 
+[![Grant Theft Auto IV](https://raw.githubusercontent.com/igiteam/gtaiv-the-getaway/refs/heads/main/gtaiv-cover.jpg)](https://archive.org/details/gtaiv.)
+
 
 # GTA IV on the Web
 
