@@ -9,7 +9,7 @@ A total conversion project that rebuilds the London crime story and cinematic dr
 [https://api.github.com/repos/igiteam/gtaiv-the-getaway/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/gtaiv-the-getaway/git/trees/main?recursive=1)
 
 # Base Gameplay
-[![The Getaway Classic Collection - Reveal Trailer](https://img.youtube.com/vi/s0-O1kjWAyY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?czAtTzFraldBeVk)
+[![The Getaway Classic Collection - Reveal Trailer](https://i.ytimg.com/vi/2CA8c-4jyQQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?czAtTzFraldBeVk)
 
 [![GTA IV: Apartment Shootout JOHN WICK STYLE](https://img.youtube.com/vi/WfyWTk7J4Q4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?V2Z5V1RrN0o0UTQ)
 
